@@ -1,0 +1,6 @@
+indexnames      valuescodes
+    1john wick    2.13   10
+    2mark twin    3.14   11
+    3louis ng     4.34   12
+    4dan brown    2.31   13
+    5ann marie    4.98   14
